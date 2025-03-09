@@ -12,7 +12,7 @@ A página HTML e os elementos CSS foram disponibilizados pelo curso, sendo neces
 * GetElement: Método utilizado para localizar elementos na interface através do ID.
 * Math: Ferramenta JavaScript para realizar o sorteio aleatório do ganhador.
 
-##Imagem do codigo JavaScript amigo secreto
+## Imagem do codigo JavaScript amigo secreto
 [![Image]()](https://github.com/prPedr/amigoSecreto/issues/2)
 
 ## Vídeo do funcionamento amigo secreto
